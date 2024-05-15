@@ -185,7 +185,7 @@ endmodule
  endmodule
 ```
 
-**OUTPUT:**
+**OUTPUT:
 ![image](https://github.com/Dhilib/VLSI-LAB-EXP-1/assets/165645979/ed5aef16-ea09-4dd7-ab95-72bab43f3c61)
 
 
