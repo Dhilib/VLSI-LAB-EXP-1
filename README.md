@@ -41,7 +41,8 @@ endmodule
 ```
 
 **OUTPUT:**
-![324330772-239bd0d8-4b57-464e-b2c1-949686a27b3f](https://github.com/Subash190/VLSI-LAB-EXP-1/assets/162429716/21fc2101-4586-477d-bb30-a24b19fb721b)
+![image](https://github.com/Dhilib/VLSI-LAB-EXP-1/assets/165645979/3612f67a-94c0-4080-80dc-ce12b9ec0a3b)
+
 
 
 
@@ -64,7 +65,8 @@ endmodule
 ```
 
 **OUTPUT:**
-![324330873-270aeda6-a449-4822-acb4-3f8e520cead4](https://github.com/Subash190/VLSI-LAB-EXP-1/assets/162429716/a8659140-64c9-4d87-8026-d0bb199dfe73)
+![image](https://github.com/Dhilib/VLSI-LAB-EXP-1/assets/165645979/529dd287-7d82-48aa-a53e-638e35b152dd)
+
 
 
 
@@ -91,7 +93,8 @@ endmodule
 
 **OUTPUT:**
 
-![324331027-c75903e2-301d-4419-9f69-08f5899f742c](https://github.com/Subash190/VLSI-LAB-EXP-1/assets/162429716/ec9d2b7a-0f6b-46d1-979c-578fd82fd296)
+![image](https://github.com/Dhilib/VLSI-LAB-EXP-1/assets/165645979/fdf1e040-1e00-48fd-b7d3-4ad7ed03e0da)
+
 
 
 
@@ -113,8 +116,9 @@ endmodule
 ```
 
 **OUTPUT:**
+![image](https://github.com/Dhilib/VLSI-LAB-EXP-1/assets/165645979/209d454b-c784-4e99-8640-308e34ea18dc)
 
-![324331191-b0821960-8c41-4798-98ce-971ba8a5d332](https://github.com/Subash190/VLSI-LAB-EXP-1/assets/162429716/6f2442e7-f2b7-4f53-b3b9-088b3234c9f2)
+
 
 
 **FULL SUBTRACTOR:**
@@ -141,7 +145,8 @@ endmodule
 ```
 
 **OUTPUT:**
-![324331287-ca0f51d1-01f8-46bc-aa1d-6f824393a23f](https://github.com/Subash190/VLSI-LAB-EXP-1/assets/162429716/c4050e22-96b1-455e-b1ed-9779f7b49a04)
+![image](https://github.com/Dhilib/VLSI-LAB-EXP-1/assets/165645979/49fd05b7-ccfb-4cb2-953c-06e1731cc8b5)
+
 
 **8 BIT RIPPLE CARRY ADDER:**
 
@@ -181,7 +186,7 @@ endmodule
 ```
 
 **OUTPUT:**
-![322212995-19940af4-30c5-4a0e-b1c4-c416e14a9879](https://github.com/Subash190/VLSI-LAB-EXP-1/assets/162429716/6e7bc6e4-d210-4c48-b90c-fdbd01e7c46a)
+![image](https://github.com/Dhilib/VLSI-LAB-EXP-1/assets/165645979/ed5aef16-ea09-4dd7-ab95-72bab43f3c61)
 
 
 **RESULT:**<br>
